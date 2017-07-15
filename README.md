@@ -13,7 +13,9 @@ Unit 12 Assignment: Node.js & MySQL
 1. It will then continue to display a question that would ask the user "What is the ID of the product you would like to buy?"  After the user enters the item_id and clicked 'enter', it will then continue to ask the user "How many units would you like to buy?" 
 
 1. Once the order was placed, the app will check if there is enough inventory to fulfill the request.
-    If there is enought inventory, the app will display the total cost, and deduct the number of unit/s from inventory to reflect the current inventory on hand.
+    
+    If there is enought inventory, the app will display the total cost, 
+    and deduct the number of unit/s from inventory to reflect the current inventory on hand.
 ![Order successful](./images/orderSuccess.png)
 
 
