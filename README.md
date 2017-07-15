@@ -27,6 +27,8 @@ Unit 12 Assignment: Node.js & MySQL
 
 ![Order failed - Insufficient Inventory](./images/orderFailed.png)
 
+* Bamazon app also validates the data enetered.  If not correct, the up will throw a notification error and aske the user to enter a corect data.
+![Order failed - Insufficient Inventory](./images/isValidData.png)
 
 
 **Follow these to get started.**
