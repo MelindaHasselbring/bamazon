@@ -2,7 +2,6 @@
 Unit 12 Assignment: Node.js & MySQL
 
 
-## Overview for Bamazon Customer.
 
 *Bamazon project* is an Amazon-like storefront aplication. 
 
@@ -13,19 +12,19 @@ Unit 12 Assignment: Node.js & MySQL
 ### Must create a database by running the bamazon.sql
 
 ### Run the following command to initialize npm and install all dependencies
-npm init
-npm install
+    npm init
+    npm install
 
 ### Install production dependencies using this command
-npm install mysql --save
-npm install inquirer --save
-npm install console.table --save
+    npm install mysql --save
+    npm install inquirer --save
+    npm install console.table --save
 
 
 ### Execute the following command to run the project:
-node bamazonCustomer.js
+    node bamazonCustomer.js
 
-
+## Overview for Bamazon Customer.
 
 When a Node application called `bamazonCustomer.js` is run, it will first display all of the items available for sale. The display includes ids, names, and prices of products.  
 
