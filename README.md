@@ -16,13 +16,11 @@ Unit 12 Assignment: Node.js & MySQL
 
     
     i.  If there is enought inventory, the app will display the total cost, and deduct the number of unit/s from inventory to reflect the current inventory on hand.
+![Order successful](./images/orderSuccess.png)
 
-        ![Order successful](./images/orderSuccess.png)
 
-
-        * Below is the inventory record before and after the order for item 9.
-
-        ![Inventory for item 9 was depleted by 2.](./images/inventory.png)
+* Below is the inventory record before and after the order for item 9.
+![Inventory for item 9 was depleted by 2.](./images/inventory.png)
 
 
     ii.  If not, the app will log a phrase  `Insufficient quantity!`, and then prevent the order from going through.     
