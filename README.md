@@ -31,19 +31,16 @@ Follow these to get started.
 ### Must create a database by running the bamazon.sql
 
 ### Run the following command to initialize npm and install all dependencies
-
-npm init
-npm install
+    npm init
+    npm install
 
 ### Install production dependencies using this command
-
-npm install mysql --save
-npm install inquirer --save
-npm install console.table --save
+    npm install mysql --save
+    npm install inquirer --save
+    npm install console.table --save
 
 
 ### Execute the following command to run the project:
-
-node bamazonCustomer.js
+    node bamazonCustomer.js
 
 
