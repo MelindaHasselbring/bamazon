@@ -29,13 +29,6 @@ Unit 12 Assignment: Node.js & MySQL
 
 
 
-
-
-
-
-
-
-
 **Follow these to get started.**
 
 ## Installation Instructions:
@@ -54,6 +47,8 @@ Unit 12 Assignment: Node.js & MySQL
 
 ### Execute the following command to run the project:
     node bamazonCustomer.js
+
+
 
 
 
