@@ -8,9 +8,6 @@ var inquirer = require('inquirer');//Needed for prompts
 require('console.table');//Needed for logging tables
 
 
-
-
-
 var connection = mysql.createConnection({
   host: "localhost",
   port: 3306,
@@ -19,7 +16,7 @@ var connection = mysql.createConnection({
   user: "root",
 
   // Your password
-  password: "root",
+  password: "",
   database: "bamazon"
 });
 
@@ -68,7 +65,6 @@ function whatWouldYouLike() {
         }
     }, 
 
-//   6. The app should then prompt users with two messages.
 //    * The second message should ask how many units of the product they would like to buy.
         {
         name: 'number_of_units',

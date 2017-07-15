@@ -47,6 +47,10 @@ Unit 12 Assignment: Node.js & MySQL
     npm install console.table --save
 
 
+###Use the right password.
+    modify bamazonCustomer.js to reflect your own connection password.
+
+
 ### Execute the following command to run the project:
     node bamazonCustomer.js
 
