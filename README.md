@@ -16,6 +16,7 @@ Unit 12 Assignment: Node.js & MySQL
     
     i.) If there is enought inventory, the app will display the total cost, 
     and deduct the number of unit/s from inventory to reflect the current inventory on hand.
+
 ![Order successful](./images/orderSuccess.png)
 
 
