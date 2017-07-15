@@ -6,12 +6,12 @@ Unit 12 Assignment: Node.js & MySQL
 
 *Bamazon project* is an Amazon-like storefront aplication. 
 
-1. Item 1
+1. 
 When a Node application called `bamazonCustomer.js` is run, it will first display all of the items available for sale. The display includes ids, names, and prices of products.  
 
-1. Item 2
+1. 
 It will then continue to display a question that would ask the user "What is the ID of the product you would like to buy?"  After the user enters the item_id and clicked 'enter', it will then continue to ask the user "How many units would you like to buy?" 
-1. Item 3
+1. 
 Once the order was placed, the app will check if there is enough inventory to fulfill the request.
 
     1. Item 3a
